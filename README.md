@@ -112,6 +112,7 @@ We provide [label_action_mask.py](./scripts/label_action_mask.py) for labeling *
 
 ### Contact
 Chi-Hsi Kung - hank910140@gmail dot com
+
 Yu-Ho Chang - changhowad@gmail dot com
 
 
