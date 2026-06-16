@@ -110,6 +110,17 @@ python eval_localization.py --attn_cp [/path/to/attn_source.pth] --cp [/path/to/
 ### Labeling Atomic Activity Masks
 We provide [label_action_mask.py](./scripts/label_action_mask.py) for labeling **Atomic Activity Masks**.
 
+
+## Citation
+```
+@unpublished{chang2026actionslot,
+  title  = {Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding},
+  author = {Chang, Yu-Ho and Kung, Chi-Hsi and Tsai, Yi-Hsuan and Chen, Yi-Ting},
+  note   = {Manuscript in preparation},
+  year   = {2026}
+}
+```
+
 ### Contact
 Chi-Hsi Kung - hank910140@gmail dot com
 
