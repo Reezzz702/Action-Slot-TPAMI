@@ -4,7 +4,7 @@
 
 <sup>1</sup>National Yang Ming Chiao Tung University,  <sup>2</sup>Atmanity Inc.
 
-[[arxiv](https://arxiv.org/abs/2311.17948)] [[Project Page](https://reezzz702.github.io/Action-slot-TPAMI_project_page/)]
+[[Project Page](https://reezzz702.github.io/Action-slot-TPAMI_project_page/)]
 
 This repository contains the official code for training and evaluating baselines presented in the paper.
 > **Note:** This work is a extension of our previous CVPR 2024 paper: *[Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes](https://hcis-lab.github.io/Action-slot/)*.
